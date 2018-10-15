@@ -1,9 +1,8 @@
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale, shrink-to-fit=no">
-<meta name="description" content="Learana Learning Analytics">
+<meta charset="utf-8">
+<meta name="description" content="">
+<meta name="author" content="Scotch">
 
-<title>Learana - Learning Analytics</title>
+<title>Super Cool Layouts</title>
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
-      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-<link href="/css/app.css" rel="stylesheet">
+<!-- load bootstrap from a cdn -->
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/twitter-bootstrap/3.0.3/css/bootstrap-combined.min.css">

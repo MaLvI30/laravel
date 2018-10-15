@@ -1,4 +1,1 @@
-<footer class="container">
-    <p class="float-right"><a href="#"></a>Back to Top</p>
-    <p>&copy; 2017-2018 Learana, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
-</footer>
+<div id="copyright text-right">© Copyright 2013 Scotchy Scotch Scotch</div>
